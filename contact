@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Contact Me</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="DESCRIPTION" content="Ping me at...">
+    
+    
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/js/jquery-1.9.1.min.js"><\/script>')</script>
+
+
+    
+	<script type="text/javascript" src="/js/generic.gz.js?v=1.7.1"></script>
+
+
+    <script type="text/javascript">
+
+        window.config = {};
+        window.config._pageType = "contact";
+        window.config._realPageType = "contact";
+        window.config._commentsURLprefix = 'http://www.snackwebsites.com/fbcomments?url=';
+        window.config._S3URL = 'http://files.snackwebsites.net.s3.amazonaws.com/sites/um07fql1/json/';
+        window.config._hash = 'um07fql1';
+        window.config._lastUpdateDate = '1448883065';
+        window.config._shortUrl = 'http://snk.to/';
+        window.config.shortUrl = 'snk.to/39uBS';
+        window.config.WSAnalitics = 'UA-15731042-23';
+        window.config.showShareOptions = "1";
+        window.config.isPreview = "0";
+        window.config._jsComponents = {
+            'audioPath': '/js/components/audio/',
+            'photoPath': '/js/components/photo/'
+        };
+        window.config._version = '1.7.1';
+        window.config._wsVersion = 6;
+        
+        window.config.popularIds = [];
+
+                window.lObj = {"addressText":"Address","blockedMessage":"Currently blocked due to a copyright infringement complaint.<br\/>Sorry about that.","cityTownText":"Lives in","contactNameError":"Your name is required!","contactEmailError":"Invalid e-mail address!","contactMessageError":"Write your message!","contactMessageNotSent":"Message not sent!","contactMessageSent":"Message sent!","emailText":"E-mail address","next":"Next","occupationText":"at","onText":"on","pageNotFound":"Page not found","pageNotFoundMessage":"The page you are trying to access does not exist.","pageShortlink":"Page shortlink","phoneText":"Phone number","postedOnText":"Posted","previous":"Previous","seeAlso":"See also","sendText":"Send","share":"Share","short":"Short","shortlink":"Shortlink","showingItemIn":"Showing items in","underText":"under","viewSlideshow":"View slideshow","yourEmailText":"Your e-mail","yourNameText":"Your name","yourMessageText":"Your message","websiteBlocked":"Website blocked!","showMore":"Show more"};
+        
+        
+        
+        var previewSettings = null;
+        
+        function WS_um07fql1(data, type) {
+            if (previewSettings && type == 'settings'){
+                data = $.extend(data, previewSettings);
+            }
+
+            if (window.documentReady){
+                onContentLoad(data, type);
+            } else {
+                $(document).ready(function() {
+                    window.documentReady = true;
+                    onContentLoad(data, type, false);
+                });
+            }
+        }
+
+    </script>
+    <script type="text/javascript" src="http://files.snackwebsites.net.s3.amazonaws.com/sites/um07fql1/json/settings.js?_=1448883065"></script>
+
+    <link rel="stylesheet" type="text/css" href="/css/generic.css?v=1.7.1"/>
+
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+
+
+    <script type="text/javascript">
+                                    
+                var _gaq=[["_setAccount", config.WSAnalitics],["_trackPageview"]];
+                (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+                    g.src=("https:"==location.protocol?"//ssl":"//www")+".google-analytics.com/ga.js";
+                    s.parentNode.insertBefore(g,s)}(document,"script"));
+                
+                        </script>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/Article">
+
+
+<div id="wrapper" style="display: none;">
+    <div id="menu_container">
+        <div id="menu_items">
+            <ul id="nav">
+            <a href="/"><div id="menu_user_picture"><img src="https://graph.facebook.com/10201073785684889/picture"/></div></a><a href="/"><div id="menu_user_name">Akarsh Prabhu</div></a><div id="top_menu"><li  ><a href="/" ><div class="menu_item_text">Home</div></a></li><li  ><a href="/contact" ><div class="menu_item_text">Contact Me</div></a></li></div>
+            </ul>
+
+                    <div id="menu_snack_logo">
+                <div class="footer-item" id="shortUrl">
+                    <div><span id="page-shortlink" class="unselectable">Page shortlink: </span><input class="short-text" readonly="readonly" type="text" value="snk.to/39uBS"/></div>
+                    <div class="share-btn">Share</div>
+                    <br />
+                </div>
+                <div class="footer-item" id="by-sws">
+                    <div id="sws-logo"><span id="before-logo">Free website builder by </span><a href="http://www.snackwebsites.com" target="_blank" title="Make a personal website with SnackWebsites"><span id="snack">SnackWebsites</span></a></div>
+                </div>
+                <br />
+
+                                <div id="footer_info_text">
+                    <div class="footer-info-text-cont"><a href="http://www.snackwebsites.com/">Snackwebsites</a> is part of the larger Snacktools family apps. <a href="http://www.snacktools.com/">Snacktools apps</a> were designed to make it easy to create and improve websites. Now you can even run online advertising campaigns with one of our apps - <a href="http://www.bannersnack.com/">Bannersnack</a>. Within minutes you can create banner ads and <a href="http://www.bannersnack.com/facebook-ads.html">Facebook ads</a> to start targeting and <a href="http://www.bannersnack.com/search-retargeting.html">search retargeting</a> to reach new customers for your business. You can even run <a href="http://www.bannersnack.com/retargeting.html">retargeting campaigns</a> and get lost visitors back.</div>
+                </div>
+                
+            </div>
+                </div>
+    </div>
+
+    <div id="main_container"><div class="page_content vcard">
+    <h1 itemprop="name" class="fn">Contact Me</h1>
+    <div class="metaTitle hidden"></div>
+    <p id="contact_message" itemprop="description"><div>Ping me at...</div></p>
+
+    <div id="contact_info">
+            <h2>Address</h2><br/>
+        <p id="contact_address">Mysore</p>
+        <br/>
+                <h2>Phone number</h2><br/>
+        <p>9844378113</p>
+        <br/>
+                <h2>E-mail address</h2><br/>
+        <p>
+            <script type="text/javascript">
+                document.write('<a href="mailto:');
+                                        document.write('aks');
+                                        document.write('769');
+                                        document.write('5@g');
+                                        document.write('mai');
+                                        document.write('l.c');
+                                        document.write('om');
+                                    document.write('">');
+                                        document.write('aks');
+                                        document.write('769');
+                                        document.write('5@g');
+                                        document.write('mai');
+                                        document.write('l.c');
+                                        document.write('om');
+                                    document.write('</a>');
+            </script>
+        </p>
+        <br/>
+        </div>
+
+    <div id="map_canvas"></div>
+    <br/>
+
+    <form id="contact_form" method="post">
+        <input type="text" name="name" id="name" value="Your name"/><br/>
+        <input type="text" name="email" id="email" value="Your e-mail" /><br/>
+        <textarea rows="5" cols="50" name="message" id="message">Your message</textarea>
+        <input type="submit" name="Submit" value="Send" id="submit_button"/>
+    </form>
+
+
+    <div class="fb-comments page_comments" data-href="" data-num-posts="100" data-width=""></div>
+
+</div></div>
