@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <title>Akarsh Prabhu</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>Akarsh Prabhu K.</h1>
+        <h2>An Engineer to be...</h2>
+
+        <section id="downloads">
+          <a href="https://github.com/akarshprabhu" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <h2>Objective</h2>
+To work in an organization where I can utilize all my skills extensively for the growth of the
+organization and constantly improve myself.
+<h2>Education</h2>
+<p>S.J.C.E., Mysore. 2013 - Present
+<br>Bachelor of Engineering(B.E.), Computer Science & Engineering.
+<br>Current CGPA: 9.52/10.00 (90th percentile)
+
+<p>Poornaprajna Pre-University College,Udupi.
+<br>2nd P.U.,
+<br>Percentage: 93%
+<br>Board: D.P.U.E.,Karnataka.
+
+<h2>Experience</h2>
+<h3>Projects . . . . . . . . . . . . . . . . . . . . . . . .
+</h3>
+<h4> Recommender System [C, Scala, R]</h4> Built a Recommender system using Collaborative filtering
+and K Nearest Neighbour classification. The model was improved by using K Means clustering
+technique for similar users. The model was tried on a no. of datasets including Movielens100k,
+Books, Music. This project was done during an internship at Compiler Tree Technologies.
+<h4> Engineering College Rank Predictor [R programming language]</h4> Built a predictor of ranking of Karnataka Engineering colleges using KCET rank cutoffs data of previous years from
+www.kea.kar.nic.in. A thorough outlier detection study was done. A Linear Regression model and
+Time Series model was compared. This project was done during an internship at Compiler Tree
+Technologies.
+<h4> Scratch Pad - The custom Text Editor [Java]</h4> A text editor made using Java swings having
+most features of a moderately mature text editor. An extensive knowledge about Java classes
+was gained.
+<h4> Hospital Manager [Backend: SQL, Frontend: HTML,CSS,PHP]</h4> This is a Database management
+system project where most prominent entities of a hospital are included in the schema. Employees
+and patients can be managed with this. Front end has features to add,delete,update records
+along with basic transactions.
+<h2>Technical Skills</h2>
+Computer Languages: C, Java, R.
+<br>Platforms: Linux(Ubuntu), Windows.
+<br>Tools: Git, Latex.
+<br>Web Development: HTML, CSS, Java Script, PHP.
+<h2>Extra Curricular</h2>
+<ul>
+<li>Student Executive of CSI - SJCE Student Chapter during 2015-2016.
+<li>Co Lead of Publicity of CSI - SJCE Student Chapter during 2014-2015.
+<li>Co Organiser of Annual technical fest ‘Technologix 2015’ and ‘Technologix 2016’ by CSI -
+SJCE Student Chapter.
+<li>Team leader of the Science Drama team from Karnataka which took part in the National
+Science drama Festival-2010 at Mumbai organised by National Council of Science Museums,
+Ministry of Culture, Government of India.
+<li>Student member of Computer Society of India.
+<li>Participated in the SAP Techniversity held at B.I.E.C.,Bengaluru.
+</ul>
+      </section>
+    </div>
+
+
+  </body>
+</html>
